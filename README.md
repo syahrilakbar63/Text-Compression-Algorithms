@@ -18,4 +18,4 @@ python main.py
 Program ini akan mencetak teks asli, teks terkompresi, ukuran data sebelum dan setelah kompresi, rasio kompresi, dan waktu pengiriman untuk kedua algoritma.
 
 ## Lisensi
-Program ini dilisensikan di bawah [MIT License]. Lihat file (LICENSE) untuk detail lebih lanjut.
+Program ini dilisensikan di bawah [MIT License](MIT License). Lihat file [MIT License](LICENSE) untuk detail lebih lanjut.
